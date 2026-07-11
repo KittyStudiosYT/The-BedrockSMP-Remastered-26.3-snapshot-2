@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "kitty:steel_handle",
+    "X": "#kitty:steel_tool_materials",
+    "Z": "kitty:steel_rod"
+  },
+  "pattern": [
+    "  X",
+    " Z ",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kitty:steel_spear"
+  }
+}
